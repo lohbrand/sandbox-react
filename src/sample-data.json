@@ -1,0 +1,61 @@
+{
+  "setup": {
+    "language": "en",
+    "unit": "mm",
+    "debug": true
+  },
+  "style": {
+    "boxStyle": {
+      "background": "rgba(150,150,150,0.5)"
+    },
+    "defaultFont": {
+      "headlineSize": "14pt",
+      "size": "11pt",
+      "color": "black",
+      "family": "'Hevetica Neue','Gill Sans', Arial, 'sans serif'"
+    }
+  },
+  "pages": [
+    {
+      "mediabox": {
+        "x0": "0mm",
+        "y0": "0mm",
+        "width": "230mm",
+        "height": "317mm"
+      }
+    },
+    {
+      "cropboxbox": {
+        "x0": "0mm",
+        "y0": "0mm",
+        "width": "230mm",
+        "height": "317mm"
+      }
+    },
+    {
+      "bleedbox": {
+        "x0": "7mm",
+        "y0": "7mm",
+        "width": "216mm",
+        "height": "303mm"
+      }
+    },
+    {
+      "trimboxbox": {
+        "x0": "10mm",
+        "y0": "10mm",
+        "width": "210mm",
+        "height": "297mm"
+      }
+    }
+  ],
+  "marks": [
+    {
+      "x0": "0mm",
+      "y0": "0mm",
+      "width": "100mm",
+      "height": "100mm",
+      "refAnchor": "trimbox"
+    }
+  ]
+}
